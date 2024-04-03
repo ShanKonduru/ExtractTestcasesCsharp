@@ -1,0 +1,14 @@
+C:\MyProjects\ExtractTestcasesCsharp\bin\Debug\net7.0\ExtractTestcasesCsharp.exe
+C:\MyProjects\ExtractTestcasesCsharp\bin\Debug\net7.0\ExtractTestcasesCsharp.deps.json
+C:\MyProjects\ExtractTestcasesCsharp\bin\Debug\net7.0\ExtractTestcasesCsharp.runtimeconfig.json
+C:\MyProjects\ExtractTestcasesCsharp\bin\Debug\net7.0\ExtractTestcasesCsharp.dll
+C:\MyProjects\ExtractTestcasesCsharp\bin\Debug\net7.0\ExtractTestcasesCsharp.pdb
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.AssemblyInfoInputs.cache
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.AssemblyInfo.cs
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.csproj.CoreCompileInputs.cache
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.dll
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\refint\ExtractTestcasesCsharp.dll
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.pdb
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ExtractTestcasesCsharp.genruntimeconfig.cache
+C:\MyProjects\ExtractTestcasesCsharp\obj\Debug\net7.0\ref\ExtractTestcasesCsharp.dll
